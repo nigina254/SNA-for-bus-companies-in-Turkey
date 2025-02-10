@@ -1,4 +1,4 @@
-Co-authored-by:gulsahatici
+Co-authored-by:https://github.com/gulsahatici
 # SNA-for-bus-companies-in-Turkey
 University project for Social Network Analysis subject. 
 
