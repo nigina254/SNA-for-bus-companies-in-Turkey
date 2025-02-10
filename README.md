@@ -1,3 +1,4 @@
+Co-authored-by:gulsah.atici0@gmail.com
 # SNA-for-bus-companies-in-Turkey
 University project for Social Network Analysis subject. 
 
